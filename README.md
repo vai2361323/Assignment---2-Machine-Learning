@@ -28,7 +28,7 @@ The uploaded CSV is test data only and is never used for fitting.
 
 **GitHub Repository:** Replace this line with the public URL after creating and
 pushing the project repository, for example
-``.
+`https://github.com/vai2361323/Assignment---2-Machine-Learning.git`.
 
 **Live Streamlit App:** Replace this line with the deployed app URL after
 publishing, for example `https://assignment---2-machine-learning-toxwktoebyemtu2tcy9dno.streamlit.app/`.
